@@ -1,0 +1,31 @@
+{
+  "name": "google-photos-slideshow",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.10.6",
+    "@next/font": "13.1.1",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.10",
+    "cookies-next": "^2.1.1",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "next": "13.1.1",
+    "next-auth": "4.20.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-markdown": "^8.0.5",
+    "typescript": "4.9.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
