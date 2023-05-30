@@ -11,3 +11,4 @@
 | Author                                         | Documentation                                                                         | Web Integration Url      |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------- |
 | [@robbieplata](https://github.com/robbieplata) | [robbieplata/shadertoy-on-kraken](https://github.com/robbieplata/shadertoy-on-kraken) | Run locally or self host |
+| [@brunoandradebr](https://github.com/brunoandradebr) | [brunoandradebr/dual-info-krakenZ63](https://github.com/brunoandradebr/nzxt) | Run only hosted |
