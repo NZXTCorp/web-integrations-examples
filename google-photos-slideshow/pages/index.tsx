@@ -34,7 +34,7 @@ export async function getServerSideProps({ req, res, query }: GetServerSideProps
   if (session?.accessToken && isString(session?.accessToken)) {
     const data = await getAlbums(session?.accessToken, '', 50)
     if (!data.albums.length) {
-      return { props: { albums: [] } }
+      return { props: { session, albums: [] } }
     }
     albums = data.albums
     nextPageToken = data.nextPageToken
