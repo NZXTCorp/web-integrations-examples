@@ -19,3 +19,11 @@
 | Author                                         | Documentation                                                                         | Web Integration Url      |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------- |
 | [@brunoandradebr](https://github.com/brunoandradebr) | [brunoandradebr/dual-info-krakenZ63](https://github.com/brunoandradebr/nzxt) | https://brunoandradebr.github.io/nzxt/ |
+
+
+## Starfield Interface
+> Show CPU and GPU temperatures in an interface inspired by the video game Starfield from Bethesda.
+
+| Author                                         | Documentation                                                                         | Web Integration Url      |
+| :--------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------- |
+| [@FrancoisMentec](https://github.com/FrancoisMentec) | [FrancoisMentec/NZXT-Starfield-Web-Integration](https://github.com/FrancoisMentec/NZXT-Starfield-Web-Integration) |  https://francoismentec.github.io/NZXT-Starfield-Web-Integration/ or run locally (can be installed as a service on windows) |
