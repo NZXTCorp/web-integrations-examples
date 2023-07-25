@@ -10,7 +10,7 @@
 
 | Author                                         | Documentation                                                                         | Web Integration Url      |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------- |
-| [@robbieplata](https://github.com/robbieplata) | [robbieplata/shadertoy-on-kraken](https://github.com/robbieplata/shadertoy-on-kraken) | Run locally or self host |
+| [@robbieplata](https://github.com/robbieplata) | [robbieplata/shadertoy-on-kraken](https://github.com/robbieplata/shadertoy-on-kraken) | https://robbieplata.github.io/shadertoy-on-kraken/ |
 
 ## Dual Info
 
