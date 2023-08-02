@@ -27,3 +27,10 @@
 | Author                                         | Documentation                                                                         | Web Integration Url      |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------ | :----------------------- |
 | [@FrancoisMentec](https://github.com/FrancoisMentec) | [FrancoisMentec/NZXT-Starfield-Web-Integration](https://github.com/FrancoisMentec/NZXT-Starfield-Web-Integration) |  https://francoismentec.github.io/NZXT-Starfield-Web-Integration/ or run locally (can be installed as a service on windows) |
+
+## Starfield Compass Interface
+> An interface inspired by the Starfield compass shown on the gameplay videos, it includes CPU and GPU temperatures + actual RAM usage.
+
+| Author                                         | Documentation                                                                                                               | Web Integration Url      |
+| :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------| :----------------------- |
+| [@IulianUrsu](https://github.com/iulicc) | [IulianUrsu/NZXT-Starfield-compass-Web-Integration](https://github.com/iulicc/NZXT-Starfield-compass-Web-Integration) |  https://iulicc.github.io/NZXT-Starfield-compass-Web-Integration/ |
