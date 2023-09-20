@@ -34,3 +34,11 @@
 | Author                                         | Documentation                                                                                                               | Web Integration Url      |
 | :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------| :----------------------- |
 | [@IulianUrsu](https://github.com/iulicc) | [IulianUrsu/NZXT-Starfield-compass-Web-Integration](https://github.com/iulicc/NZXT-Starfield-compass-Web-Integration) |  https://iulicc.github.io/NZXT-Starfield-compass-Web-Integration/ |
+
+## Apex Legends Stats
+> Show stats from your Apex Legends account.
+
+| Author                                         | Documentation                                                                                                               | Web Integration Url      |
+| :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------| :----------------------- |
+| [@robbie0525](https://github.com/robbie0525) | [robbie0525/robbie0525.github.io](https://github.com/robbie0525/robbie0525.github.io) |  https://robbie0525.github.io/ |
+
