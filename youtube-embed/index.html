@@ -1,43 +1,48 @@
 <html>
-    <head>
-        <style>
-            body {
-                margin: 0;
-            }
 
-            .container {
-                display: flex;
-                width: 100vw;
-                height: 100vh;
-                align-items: center;
-                justify-content: center;
-                transform-origin: 0 0;
-            }
+<head>
+	<style>
+		body {
+			margin: 0;
+		}
 
-            .video {
-                width: 100vw;
-                height: 100vh;
-                transform: scale(1.8);
-                transform-origin: center;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <iframe id="video" class="video" width="640" height="640" src="" allow="autoplay;mute;fullscreen" frameBorder="0" allowfullscreen></iframe>
-        </div>
-    </body>
-        <script type="text/javascript">
-            const youtubeEmbedRoot = 'https://www.youtube.com/embed/1km9XQSc0Yw?autoplay=1&loop=1&controls=0&mute=1'
-            const params = (new URL(window.location.href)).searchParams
-            const viewstate = params.get('viewstate') || 640
+		.container {
+			display: flex;
+			width: 100vw;
+			height: 100vh;
+			align-items: center;
+			justify-content: center;
+			transform-origin: 0 0;
+		}
 
-            const video = window.document.getElementById('video')
-            video.setAttribute('width', viewstate)
-            video.setAttribute('height', viewstate)
+		.video {
+			width: 100vw;
+			height: 100vh;
+			transform: scale(1.8);
+			transform-origin: center;
+		}
+	</style>
+</head>
 
-            const videoId = params.get('video') || '1km9XQSc0Yw'
-            const youtubeUrl = `https://www.youtube.com/embed/${videoId}?autoplay=1&loop=1&controls=0&mute=1`
-            video.setAttribute('src', youtubeUrl)
-        </script>
+<body>
+	<div class="container">
+		<iframe id="video" class="video" width="640" height="640" src="" allow="autoplay;mute;fullscreen" frameBorder="0"
+			allowfullscreen></iframe>
+	</div>
+</body>
+
+<script type="text/javascript">
+	const youtubeEmbedRoot = 'https://www.youtube.com/embed/'
+	const params = (new URL(window.location.href)).searchParams
+	const viewstate = params.get('viewstate') || 640
+
+	const video = window.document.getElementById('video')
+	video.setAttribute('width', viewstate)
+	video.setAttribute('height', viewstate)
+
+	const videoId = params.get('video') || '1km9XQSc0Yw'
+	const youtubeUrl = `${youtubeEmbedRoot}${videoId}?autoplay=1&playlist=${videoId}&loop=1&controls=0&mute=1`
+	video.setAttribute('src', youtubeUrl)
+</script>
+
 </html>
