@@ -51,6 +51,12 @@
 | Author                                   | Documentation                                                                                                         | Web Integration URL                                              | Try it now!                                                                                                                                                                                                                                                                                                                                |
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [@ReinhardtBotha](https://github.com/ReinhardtBotha) | [NZXT-Aviation-Gauge-Web-Integration](https://github.com/ReinhardtBotha/NZXT-aviation/) | https://reinhardtbotha.github.io/NZXT-aviation/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://reinhardtbotha.github.io/NZXT-aviation/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://reinhardtbotha.github.io/NZXT-aviation/) |
+## NZXT Kraken Elite Custom Faces
 
+> A pack of animated Kraken Elite faces — Aurora (energy beams), Circuit (gold PCB with electric sparks) and Lumen (minimal luxury) — showing CPU/GPU/liquid temps, RAM usage and power draw.
+
+| Author | Documentation | Web Integration URL | Try it now! |
+| :--- | :--- | :--- | :--- |
+| [@Najibra](https://github.com/Najibra) | [nzxtv2](https://github.com/Najibra/nzxtv2) | https://najibra.github.io/nzxtv2/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://najibra.github.io/nzxtv2/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://najibra.github.io/nzxtv2/) |
 
 
