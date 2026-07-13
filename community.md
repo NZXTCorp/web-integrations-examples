@@ -4,6 +4,14 @@
 
 **The following projects are not maintained, monitored, moderated, or affiliated with NZXT. Any usage of these projects is at your own risk and NZXT can not be held liable for any of the content or results of running these projects on your NZXT devices.**
 
+## NZXT Kraken Enhanced Screen Customization Editor (NZXT-ESC)
+
+> An advanced all-in-one screen customization platform for supported NZXT Kraken models, including Kraken Elite and Kraken Plus, with freeform drag-and-drop editing, unlimited layered overlays, live hardware monitoring, images, GIFs, videos, Now Playing, audio visualization, presets, and real-time NZXT CAM Web Integration.
+
+| Author                                   | Documentation                                   | Web Integration URL                                 | Try it now!                                                                                                                                                                                                                                                                                                 |
+| :--------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [@mrgogo7](https://github.com/mrgogo7)   | [nzxt-esc](https://github.com/mrgogo7/nzxt-esc) | https://nzxt-esc.pages.dev/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://nzxt-esc.pages.dev/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://nzxt-esc.pages.dev/) |
+
 ## Shadertoy on Kraken
 
 > Overlays processor temperatures as a gauge over an iframe of community-made shaders from shadertoy.com. With this project, you can monitor your CPU performance while enjoying the art of shader programming.
@@ -51,12 +59,3 @@
 | Author                                   | Documentation                                                                                                         | Web Integration URL                                              | Try it now!                                                                                                                                                                                                                                                                                                                                |
 | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [@ReinhardtBotha](https://github.com/ReinhardtBotha) | [NZXT-Aviation-Gauge-Web-Integration](https://github.com/ReinhardtBotha/NZXT-aviation/) | https://reinhardtbotha.github.io/NZXT-aviation/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://reinhardtbotha.github.io/NZXT-aviation/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://reinhardtbotha.github.io/NZXT-aviation/) |
-
-
-## NZXT Elite Screen Customizer (nzxt-esc)
-
-> A full real-time LCD overlay editor for Kraken Elite, featuring drag-and-drop layout editing, media backgrounds, text/metric elements, presets, and full NZXT Web Integration support.
-
-| Author                                   | Documentation                                   | Web Integration URL                                 | Try it now!                                                                                                                                                                                                                                                                                                 |
-| :--------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@mrgogo7](https://github.com/mrgogo7)   | [nzxt-esc](https://github.com/mrgogo7/nzxt-esc) | https://mrgogo7.github.io/nzxt-esc/                | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://mrgogo7.github.io/nzxt-esc/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://mrgogo7.github.io/nzxt-esc/) |
