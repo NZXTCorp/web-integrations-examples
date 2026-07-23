@@ -59,3 +59,11 @@
 | Author                               | Documentation                                                             | Web Integration URL                             | Try it now!                                                                                                                                                                                                                                                                                              |
 | :------------------------------------| :------------------------------------------------------------------------ | :-----------------------------------------------| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [@zmasek](https://github.com/zmasek) | [kraken-home-assistant](https://github.com/zmasek/kraken-home-assistant/) | https://zmasek.github.io/kraken-home-assistant/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://zmasek.github.io/kraken-home-assistant/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://zmasek.github.io/kraken-home-assistant/) |
+
+## NZXT Kraken Elite Custom Faces
+
+> A growing collection of animated Kraken Elite faces, including Aurora (energy beams), Circuit (gold PCB with electric sparks), Lumen (minimal luxury) and Fluid Dynamics, showing CPU/GPU/liquid temps, RAM usage and power draw.
+
+| Author | Documentation | Web Integration URL | Try it now! |
+| :--- | :--- | :--- | :--- |
+| [@Najibra](https://github.com/Najibra) | [nzxtv2](https://github.com/Najibra/nzxtv2) | https://najibra.github.io/nzxtv2/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://najibra.github.io/nzxtv2/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://najibra.github.io/nzxtv2/) |
