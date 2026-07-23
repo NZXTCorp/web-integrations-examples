@@ -67,3 +67,11 @@
 | Author | Documentation | Web Integration URL | Try it now! |
 | :--- | :--- | :--- | :--- |
 | [@Najibra](https://github.com/Najibra) | [nzxtv2](https://github.com/Najibra/nzxtv2) | https://najibra.github.io/nzxtv2/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://najibra.github.io/nzxtv2/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://najibra.github.io/nzxtv2/) |
+
+## NZXT Kraken Enhanced Screen Customization Editor (NZXT-ESC)
+
+> An advanced all-in-one screen customization platform for supported NZXT Kraken models, including Kraken Elite and Kraken Plus, with freeform drag-and-drop editing, unlimited layered overlays, live hardware monitoring, images, GIFs, videos, Now Playing, audio visualization, presets, and real-time NZXT CAM Web Integration.
+
+| Author                                   | Documentation                                   | Web Integration URL                                 | Try it now!                                                                                                                                                                                                                                                                                                 |
+| :--------------------------------------- | :----------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [@mrgogo7](https://github.com/mrgogo7)   | [nzxt-esc](https://github.com/mrgogo7/nzxt-esc) | https://nzxt-esc.pages.dev/ | [NZXT CAM :arrow_upper_right:](https://cam-redirect.nzxt.com/action/load-web-integration?url=https://nzxt-esc.pages.dev/)<br>[NZXT CAM Beta :arrow_upper_right:](https://cam-beta-redirect.nzxt.com/action/load-web-integration?url=https://nzxt-esc.pages.dev/) |
