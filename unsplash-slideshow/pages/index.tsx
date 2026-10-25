@@ -53,7 +53,7 @@ export default function Home({
 
   const getImages = async () => {
     try {
-      console.log(`Fetching images... ${page}}`);
+      console.log(`Fetching images... ${page}`);
       const response = await fetch(`/api/images?query=${query}&page=${page}`);
       if (response.status !== 200) {
         setError(true);

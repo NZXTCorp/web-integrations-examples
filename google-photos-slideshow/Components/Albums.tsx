@@ -48,13 +48,13 @@ const styles = {
   `,
   albumTitle: css`
     overflow: hidden;
-    white-space: no-wrap;
+    white-space: nowrap;
     text-overflow: ellipsis;
     padding-bottom: 2px;
   `,
   albumItemsCount: css`
     overflow: hidden;
-    white-space: no-wrap;
+    white-space: nowrap;
     text-overflow: ellipsis;
   `,
   albumSelected: css`

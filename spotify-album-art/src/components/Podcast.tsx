@@ -27,7 +27,7 @@ const stylesFn = (viewstate: number) => {
 
     nowPlayingImage: css`
       width: 70%;
-      boxshadow: 0 1.25em 2.5em rgb(0 0 0 / 30%), 0 1em 0.75em rgb(0 0 0 / 22%);
+      box-shadow: 0 1.25em 2.5em rgb(0 0 0 / 30%), 0 1em 0.75em rgb(0 0 0 / 22%);
     `,
 
     songTitle: css`
